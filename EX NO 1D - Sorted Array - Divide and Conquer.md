@@ -75,7 +75,7 @@ public class Solution {
         int[] nums1 = new int[m];
         //System.out.println("Enter " + m + " sorted integers for first array:");
         for (int i = 0; i < m; i++) {
-            nums1[i] = sc.nextInt();
+            nums1[i] = sc.nextInt()
         }
 
         // Input for nums2
